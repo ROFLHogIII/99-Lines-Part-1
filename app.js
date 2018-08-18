@@ -1,4 +1,4 @@
-var friends = ['Chris', 'Warryn', 'Woody', 'Jun', 'Senpai']
+var friends = ['Chris', 'Warryn', 'Woody', 'Jun', 'Anthony']
 
 for (let f = 0; f < friends.length; f++) {
     console.log(friends[f] + ':')
